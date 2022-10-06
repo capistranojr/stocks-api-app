@@ -1,0 +1,32 @@
+.app {
+    margin: 20px;
+}
+
+.search {
+    padding: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.list {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.listItem {
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: #444;
+    font-weight: 300;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.Button {
+    background-color: lightgreen;
+}
